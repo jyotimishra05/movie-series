@@ -1,11 +1,27 @@
+## "Before diving into this project, make sure to tweak your local DNS server settings."
+## Project Link-> https://movie-app-ohhc-d5j8pdyyd-jyotimishra05.vercel.app/
+
+
+<img width="1280" alt="Screenshot 2024-04-13 at 10 06 01 AM" src="https://github.com/jyotimishra05/Movie-And-TV-series-App/assets/51984459/d06f5d3a-8ff3-4a4a-80da-270a9df930cc">
+
+<img width="1268" alt="Screenshot 2024-04-13 at 10 06 19 AM" src="https://github.com/jyotimishra05/Movie-And-TV-series-App/assets/51984459/6fcb037a-c9e3-449b-981c-8ff4a2bf3747">
+
+<img width="1280" alt="Screenshot 2024-04-13 at 10 06 44 AM" src="https://github.com/jyotimishra05/Movie-And-TV-series-App/assets/51984459/f89568a8-81e3-4a4e-a1d1-63be0271ae18">
+
+<img width="1276" alt="Screenshot 2024-04-13 at 10 07 04 AM" src="https://github.com/jyotimishra05/Movie-And-TV-series-App/assets/51984459/ea060c01-c401-4c5b-9980-fb46b7c9263a">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Project Link-> https://movie-app-ohhc-d5j8pdyyd-jyotimishra05.vercel.app/
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
